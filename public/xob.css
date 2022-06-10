@@ -1,0 +1,44 @@
+.fullscreen{
+    position: relative;
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.fluted{
+    width: 500px;
+    margin-left: 200px;
+    padding: 20px;
+    background: white;
+}
+#slide_1{
+    background-image: url("../images/Dashboard_Infographic_Pic1.png");
+}
+#slide_2{
+    background-image: url("../images/Dashboard_Infographic_Pic2.png");
+}
+#slide_3{
+    background-image: url("../images/Dashboard_Infographic_Pic3.png");
+}
+#slide_4{
+    background-image: url("../images/Dashboard_Infographic_Pic4.png");
+}
+#slide_5{
+    background-image: url("../images/Dashboard_Infographic_Pic5.png");
+}
+body{
+    margin: 0px;
+}
+.2nd-button{
+     position: fixed;
+     z-index: 99;
+     bottom: 20px;
+ }
+

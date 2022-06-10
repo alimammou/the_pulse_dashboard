@@ -1,0 +1,151 @@
+.table-no-border tr td{
+border:0px;
+    padding-left:0px ;
+}
+.navbar-static {
+    z-index: 1024;
+}
+.sidebar-expand-lg.sidebar-main{
+    background:  #1A759F!important;
+;
+}
+.navbar-static{
+    background:  #1A759F!important;
+}
+.sidebar-dark .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: #fdc500;
+}
+.sidebar-dark .nav-sidebar .nav-item>.nav-link.active{
+    background-color: #fdc500;
+}
+.select2-container .select2-selection--single{
+    height: 31px!important;
+}
+.select2-search--dropdown:after{
+    left: auto!important;
+    right: 0.775rem;
+}
+.select2-container--default .select2-selection--single{
+    padding: 0px;
+}
+.select2-container{
+    width: 100%!important;
+}
+.select2-selection--single .select2-selection__arrow:after{
+    right:0.475rem!important;
+}
+.apexcharts-legend {
+    word-wrap: normal;
+}
+.arrow-nav{
+    color: #dedede;
+}
+.arrow-nav:hover {
+    color: #3d0066;
+}
+.arrow-nav:not([href]):hover{
+    color: #dedede;
+}
+.navbar-brand {
+    padding-bottom: 0px!important;
+    padding-top: 0px!important;
+}
+
+.navbar {
+    color: var(--color_4)!important;
+    border-bottom: 1px solid!important;
+    border-color:#0c0e10!important;
+}
+.has-fixed-height {
+    height: 264px!important;
+}
+:root{
+    --color_1: #a9de8e;
+    --color_2: #6dc495;
+    --color_3: #34a0a4;
+    --color_4: #1a759f;
+    --color_5: #184e77;
+    --color_6: #bde6a9;
+    --color_7: #92d3b0;
+}
+html, body, .app{
+    background-color: var(--color_5)!important;
+}
+body{
+    color:black!important;
+}
+.card{
+    background-color: white!important;
+}
+.sidebar-dark .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: #145C7DFF !important;
+
+}
+
+.navbar.navbar-expand-lg.navbar-light.border-bottom-0.border-top{
+    background-color: var(--color_4)!important;
+
+}
+.breadcrumb-line.breadcrumb-line-light.header-elements-lg-inline    {
+    background-color: var(--color_5)!important;
+}
+.breadcrumb-line.breadcrumb-line-light.header-elements-lg-inline{
+    border:0;
+}
+.page-header.page-header-light{
+    border:0px!important;
+}
+.page-header-light .breadcrumb-line-light:last-child{
+    border:0px!important;
+}
+span{
+    color:black!important;
+}
+a{
+    color:black!important;
+}
+.select2-container--default .select2-selection--single{
+    background-color: white!important;
+
+}
+tr td:nth-child(odd){
+    font-weight: bold;
+}
+tr td{
+    color:black;
+}
+/*.apexcharts-menu{*/
+/*    color:#E6EDF7;*/
+/*    background-color: #27293d!important;*/
+/*    border: 0px;*/
+/*}*/
+/*.apexcharts-menu:hover{*/
+/*    background-color: #000000!important;*/
+
+/*}*/
+/*#scatter_category svg{*/
+/*    fill:white;*/
+/*}*/
+
+
+#website-chart{
+    display: flex;
+    flex-flow: row nowrap;
+    place-content: center;
+    align-items: center;
+}
+.apexcharts-menu-item.exportCSV {
+    display: none;
+}
+.breadcrumb-item{
+   color: white!important;
+}
+.sidebar-dark {
+    color: white!important;
+}
+ul a{
+    color: white!important;
+}
+ul span{
+    color: white!important;
+}
